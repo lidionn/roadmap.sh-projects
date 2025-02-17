@@ -4,4 +4,5 @@ This repository contains a collection of frontend projects I've built based on t
 
 ## Projects
 
-[01 Single Page CV](https://roadmap.sh/projects/single-page-cv)
+[01 Single Page CV](https://roadmap.sh/projects/single-page-cv),
+[02 Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
